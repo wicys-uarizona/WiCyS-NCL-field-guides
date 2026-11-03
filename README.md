@@ -1,6 +1,6 @@
 # WiCyS-NCL-field-guides
 
-Category cheat sheets for the National Cyber League (NCL), maintained by the University of Arizona Women in Cybersecurity (WiCyS) chapter. Each guide is a quick reference you can keep open during a competition: the workflow, the tools, the commands that actually solve challenges, and the pitfalls that cost points.
+Category cheat sheet's for the National Cyber League (NCL), maintained by the University of Arizona Women in Cybersecurity (WiCyS) chapter. Each guide is a quick reference you can keep open during a competition: the workflow, the tools, the commands that actually solve challenges, and the pitfalls that cost points.
 
 Everything here is for authorized CTF and practice use only. Never run these techniques against systems, accounts, or files you don't own or aren't explicitly cleared to test.
 
